@@ -74,7 +74,7 @@ I build end-to-end analytics solutions — raw data → SQL modelling → Python
 
 <div align="center">
 
-![Projects](images/projects_overview.png)
+![Projects](projects_overview.png)
 
 </div>
 
