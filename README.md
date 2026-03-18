@@ -200,7 +200,7 @@ Researching **Multi-Task Learning (MTL)** architectures that simultaneously clas
 
 <div align="center">
 
-![Contact](images/contact.png)
+![Contact](contact.png)
 
 </div>
 
