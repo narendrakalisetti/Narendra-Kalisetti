@@ -31,7 +31,7 @@ I build end-to-end analytics solutions — raw data → SQL modelling → Python
 
 <div align="center">
 
-![Skills](images/skills.png)
+![Skills](skills.png)
 
 </div>
 
