@@ -81,7 +81,7 @@ I build end-to-end analytics solutions — raw data → SQL modelling → Python
 ---
 
 ### 🏥 01 · NHS Elective Recovery & Patient Flow Analysis
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/01-NHS-Elective-Recovery)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/NHS-Elective-Recovery)
 
 > Tracking NHS elective care backlog recovery post-COVID across 200+ NHS Trusts
 
