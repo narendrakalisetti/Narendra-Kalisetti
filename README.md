@@ -98,7 +98,7 @@ I build end-to-end analytics solutions — raw data → SQL modelling → Python
 ---
 
 ### ⚡ 02 · UK Energy Transition & Carbon Analytics
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/02-UK-Energy-Transition)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/UK-Energy-Transition)
 
 > Tracking the UK's journey to net-zero using live National Grid ESO API data
 
@@ -115,7 +115,7 @@ I build end-to-end analytics solutions — raw data → SQL modelling → Python
 ---
 
 ### 🛒 03 · Retail Sales & Customer Analytics
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/03-Retail-Sales-Analytics)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/Retail-Sales-Analytics)
 
 > Full retail analytics suite — segmentation, basket analysis & churn prediction
 
@@ -132,7 +132,7 @@ I build end-to-end analytics solutions — raw data → SQL modelling → Python
 ---
 
 ### 💳 04 · Financial & Loan Risk Analytics
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/04-Financial-Loan-Risk)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/Financial-Loan-Risk)
 
 > Credit risk analytics aligned with Basel III & IFRS 9 regulatory frameworks
 
@@ -149,7 +149,7 @@ I build end-to-end analytics solutions — raw data → SQL modelling → Python
 ---
 
 ### 🚌 05 · Transport & Operations Analytics
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/05-Transport-Operations)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/narendrakalisetti/Transport-Operations)
 
 > Bus & rail network analytics — OTP, fleet utilisation & predictive maintenance
 
