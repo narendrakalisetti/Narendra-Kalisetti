@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![About Me](images/about_me.png)
+![About Me](about_me.png)
 
 </div>
 
